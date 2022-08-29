@@ -1,5 +1,6 @@
 ### About Me:
 
+I am a technologist with a strong passion for innovation and transformation, bringing over 20 years of financial industry experience and technical expertise spanning DevOps, Security, Data Analysis, and IT service frameworks.  I specialize in data-driven, analytics-accelerated solution delivery and management. 
 
 ### Github Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayne-kirk-schmidt&theme=cobalt&layout=compact)](https://github.com/wayne-kirk-schmidt/github-readme-stats)
@@ -16,12 +17,14 @@
   <img alt="Ruby" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
   <img alt="Bash" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
+
 ### :hammer_and_wrench: Platforms:
 <div>
   <img alt="AWS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img alt="Azure" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
   <img alt="GCP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
 </div>
+
 ### :hammer_and_wrench: Platforms: 
 <div>
   <img alt="Terraform" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" />   
