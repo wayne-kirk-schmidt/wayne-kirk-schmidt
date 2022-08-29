@@ -25,7 +25,7 @@ I am a technologist with a strong passion for innovation and transformation, bri
   <img alt="GCP" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
 </div>
 
-### :hammer_and_wrench: Platforms: 
+### :hammer_and_wrench: Automation Products: 
 <div>
   <img alt="Terraform" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" />   
   <img alt="Ansible" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" />
