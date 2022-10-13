@@ -1,3 +1,5 @@
+<img src="https://github.com/wayne-kirk-schmidt/wayne-kirk-schmidt/blob/main/WayneKirkSchmidt.Banner.jpg" alt="Hero image">
+
 ### About Me:
 
 I am a technologist with a strong passion for innovation and transformation, bringing over 20 years of financial industry experience and technical expertise spanning DevOps, Security, Data Analysis, and IT service frameworks.  I specialize in data-driven, analytics-accelerated solution delivery and management. 
