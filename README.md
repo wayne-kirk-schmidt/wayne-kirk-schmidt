@@ -1,4 +1,4 @@
-<img src="https://github.com/wayne-kirk-schmidt/wayne-kirk-schmidt/blob/main/WayneKirkSchmidt.Banner.jpg" alt="Hero image">
+<img src="https://github.com/wayne-kirk-schmidt/wayne-kirk-schmidt/blob/main/WayneKirkSchmidt.Banner.png" alt="Hero image">
 
 ### About Me:
 
