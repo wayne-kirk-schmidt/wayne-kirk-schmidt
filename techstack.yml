@@ -1,7 +1,8 @@
 repo_name: wayne-kirk-schmidt/wayne-kirk-schmidt
-report_id: 9894ccf57017d9e468f72c16c47b7e64
+report_id: e3d77b0a14fc6e342af7e589028e7900
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:06:48+00:00'
+timestamp: '2024-01-05T09:03:24+00:00'
 requested_by: wayne-kirk-schmidt
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/wayne-kirk-schmidt/wayne-kirk-schmidt
   detection_source: Repo Metadata
