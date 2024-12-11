@@ -1,24 +1,30 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 wayne-kirk-schmidt/wayne-kirk-schmidt is built on the following main stack:
 
-Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+
+Full tech stack [here](/techstack.md)
+
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 wayne-kirk-schmidt/wayne-kirk-schmidt is built on the following main stack:
 
+
+
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [wayne-kirk-schmidt/wayne-kirk-schmidt](https://github.com/wayne-kirk-schmidt/wayne-kirk-schmidt)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|1<br/>Tools used|11/10/23 <br/>Report generated|
+|1<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -38,4 +44,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
