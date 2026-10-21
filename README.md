@@ -5,6 +5,7 @@
 I have a strong passion for innovation and transformation, bringing diverse industry experience and technical expertise spanning DevOps, Security, Data Analysis, and IT service frameworks. I focus in data-driven, analytics-accelerated solution delivery and management.
 
 <!-- ### Github Statistics: -->
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayne-kirk-schmidt&theme=cobalt&layout=compact)](https://github.com/wayne-kirk-schmidt/github-readme-stats) -->
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wayne-kirk-schmidt&show_icons=true&theme=cobalt) -->
 
